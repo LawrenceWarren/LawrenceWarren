@@ -1,8 +1,8 @@
 ### Welcome to my GitHub 😎
 
-🔭 I’m currently working on a personal portfolio
-🌱 I’m currently learning Svelte
-😄 Pronouns: he/him
+- 🔭 I’m currently working on a personal portfolio
+- 🌱 I’m currently learning Svelte
+- 😄 Pronouns: he/him
 
 <!--
 - 
