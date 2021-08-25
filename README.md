@@ -1,7 +1,7 @@
 ### Welcome to my GitHub 😎
 
 - 🔭 I’m currently working on a personal portfolio
-- 🌱 I’m currently learning Svelte and Go.
+- 🌱 I’m currently learning Go and [https://github.com/LawrenceWarren/LozOS](x86 assembly).
 - 😄 Pronouns: he/him
 
 <!--
