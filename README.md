@@ -1,7 +1,8 @@
 ### Welcome to my GitHub 😎
 
-- 🔭 I’m currently working on a personal portfolio
-- 🌱 I’m currently learning Go and [x86 assembly](https://github.com/LawrenceWarren/LozOS).
+<!-- - 🔭 I’m currently working on a personal portfolio -->
+- 🌱 I’m currently learning Terraform, AWS & K8s
+- 🤠 In my spare time, I'm practicing [x86 assembly](https://github.com/LawrenceWarren/LozOS).
 - 😄 Pronouns: he/him
 
 <!--
