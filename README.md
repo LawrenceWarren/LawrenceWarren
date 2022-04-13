@@ -1,16 +1,9 @@
 ### Welcome to my GitHub 😎
 
-<!-- - 🔭 I’m currently working on a personal portfolio -->
-- 🌱 I’m currently learning Terraform, AWS & K8s
-- 🤠 In my spare time, I'm practicing [x86 assembly](https://github.com/LawrenceWarren/LozOS).
-- 😄 Pronouns: he/him
+#### About me!
+- 😀 My name is Lawrence, but people call me Loz. Pronouns are (he/him)
+- 🐝 Manchester based
+- 👷‍♂️ I'm Associate DevOps Engineer at Humn.AI
+- 🗓 My day to day work involves working with Terraform, K8S, and AWS
+- 👀 I'm learning Svelte as a hobby
 
-<!--
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 
-- ⚡ Fun fact: ...
--->
